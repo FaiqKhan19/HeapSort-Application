@@ -1,0 +1,2 @@
+# HeapSort-Application
+College project for my data structures class. Built an application in my junior year called ‘heap sort’ that will ask the user to enter the items to sort n =? And then respond to user by displaying the values before that number in both sorted and unsorted order. Random values entered are/can be range from 0 to 999. And output can be displayed by using the three steps 'Re-heap downward' Algorithm.
